@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using rectangleabc;
 using NUnit.Framework;
 
-namespace testcase_assignment
+namespace rectabc
 {
     [TestFixture]
     class testcase
@@ -17,7 +17,7 @@ namespace testcase_assignment
             //Arrange
             int l = 2;
             int w = 8;
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int length = testrectangle.GetLength();
@@ -32,7 +32,7 @@ namespace testcase_assignment
             //Arrange
             int l = 6;
             int w = 1;
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int length = testrectangle.SetLength(l);
@@ -49,7 +49,7 @@ namespace testcase_assignment
             //Arrange
             int l = 4;
             int w = 7;
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int width = testrectangle.GetWidth();
@@ -64,7 +64,7 @@ namespace testcase_assignment
             //Arrange
             int l = 9;
             int w = 8;
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int width = testrectangle.SetWidth(w);
@@ -82,7 +82,7 @@ namespace testcase_assignment
 
             int expectedResult = (l * 2) + (w * 2);
 
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int actualResult = testrectangle.GetPerimeter();
@@ -100,7 +100,7 @@ namespace testcase_assignment
 
             int expectedResult = (l * w);
 
-            Rectangle testrectangle = new Rectangle(l, w);
+            Rect testrectangle = new Rect(l, w);
 
             //Act
             int actualResult = testrectangle.GetArea();
