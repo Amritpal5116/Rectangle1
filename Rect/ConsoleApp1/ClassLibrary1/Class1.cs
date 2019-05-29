@@ -12,11 +12,11 @@ namespace rectabc
     class testcase
     {
         [Test]
-        public void GetLength_input2_expectedLengthEquals2()
+        public void GetLength_input3_expectedLengthEquals3()
         {
             //Arrange
-            int l = 2;
-            int w = 8;
+            int l = 4;
+            int w = 6;
             Rect testrectangle = new Rect(l, w);
 
             //Act
@@ -27,11 +27,11 @@ namespace rectabc
         }
 
         [Test]
-        public void SetLength_input6_expectedLengthEquals6()
+        public void SetLength_input5_expectedLengthEquals5()
         {
             //Arrange
-            int l = 6;
-            int w = 1;
+            int l = 1;
+            int w = 5;
             Rect testrectangle = new Rect(l, w);
 
             //Act
@@ -44,11 +44,11 @@ namespace rectabc
 
 
         [Test]
-        public void GetWidth_input7_expectedLengthEquals7()
+        public void GetWidth_input4_expectedLengthEquals4()
         {
             //Arrange
-            int l = 4;
-            int w = 7;
+            int l = 6;
+            int w = 3;
             Rect testrectangle = new Rect(l, w);
 
             //Act
@@ -59,11 +59,11 @@ namespace rectabc
         }
 
         [Test]
-        public void SetWidth_input8_expectedLengthEquals8()
+        public void SetWidth_input2_expectedLengthEquals2()
         {
             //Arrange
-            int l = 9;
-            int w = 8;
+            int l = 7;
+            int w = 6;
             Rect testrectangle = new Rect(l, w);
 
             //Act
@@ -74,11 +74,11 @@ namespace rectabc
         }
 
         [Test]
-        public void GetPerimeter_inputlength3andwidth3_expectedperimeterEquals12()
+        public void GetPerimeter_inputlength4andwidth4_expectedperimeterEquals16()
         {
             //Arrange
-            int l = 3;
-            int w = 3;
+            int l = 4;
+            int w = 4;
 
             int expectedResult = (l * 2) + (w * 2);
 
@@ -92,11 +92,11 @@ namespace rectabc
         }
 
         [Test]
-        public void GetArea_inputlength9andwidth4_expectedAreaEquals36()
+        public void GetArea_inputlength4andwidth9_expectedAreaEquals36()
         {
             //Arrange
-            int l = 9;
-            int w = 4;
+            int l = 4;
+            int w = 9;
 
             int expectedResult = (l * w);
 

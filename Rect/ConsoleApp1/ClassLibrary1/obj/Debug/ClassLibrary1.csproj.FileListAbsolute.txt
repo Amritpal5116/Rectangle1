@@ -1,0 +1,13 @@
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\ConsoleApp1.exe
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ABC\Desktop\Rect\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
